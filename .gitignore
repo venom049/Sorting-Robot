@@ -1,0 +1,24 @@
+# Python and native extension build outputs
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+
+# ROS2 / colcon
+build/
+install/
+log/
+
+# Model artifacts and runtime outputs (original ZIP files remain versioned)
+checkpoints/
+logs/
+*.pth
+*.pt
+hand_eye_matrix.npy
+hand_eye_calibration_result.txt
+detected_*.jpg
+
+# Local experiment data
+local_data/
