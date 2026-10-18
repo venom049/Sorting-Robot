@@ -1,6 +1,6 @@
 # Sorting-Robot｜视觉抓取与双臂分拣机器人
 
-BUAA sorting-robot 项目。现有内容包括 **GraspNet 点云抓取检测、OpenCV 手眼标定、ROS2 / MoveIt2 双臂运动控制**。当前为多个实验模块的代码集合，尚未提供可直接启动的完整自动分拣系统。
+BUAA sorting-robot 项目。现有内容包括 **GraspNet 点云抓取检测、OpenCV 手眼标定、ROS2 / MoveIt2 双臂运动控制**。
 
 ## 技术路线
 
